@@ -17,7 +17,9 @@ npm start
   
 ### Imported libraries
 //////// clean the code
+<br />
 npm i bootstrap
+<br />
 npm install react-router-dom@5
 npm i json-server
 npm i concurrently
