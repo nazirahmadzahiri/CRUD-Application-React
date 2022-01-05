@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Nazir",
+      "username": "Ahmad",
+      "email": "naz999@gmail.com",
+      "phone": "5533552321",
+      "website": "http://localhost:3000/users/edit/7",
+      "id": 7
+    }
+  ]
+}
