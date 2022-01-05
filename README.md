@@ -21,10 +21,16 @@ npm start
 npm i bootstrap
 <br />
 npm install react-router-dom@5
+  
+<br />
 npm i json-server
+  
+<br />
 npm i concurrently
+  
+<br />
 npm i axios
-
+<br />
 npm run start:dev
 
 
