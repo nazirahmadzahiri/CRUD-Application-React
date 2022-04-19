@@ -18,20 +18,20 @@ npm start
 ### Imported libraries
 //////// clean the code
 <br />
-npm i bootstrap
+# npm i bootstrap
 <br />
-npm install react-router-dom@5
+# npm install react-router-dom@5
   
 <br />
-npm i json-server
+ # npm i json-server
   
 <br />
-npm i concurrently
+# npm i concurrently
   
 <br />
-npm i axios
+# npm i axios
 <br />
-npm run start:dev
+# npm run start:dev
 
 
 
